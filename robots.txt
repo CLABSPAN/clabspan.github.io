@@ -1,1 +1,2 @@
-User-agent: facebookexternalhit/1.1 Disallow:
+User-agent: facebookexternalhit/1.1
+Disallow:
